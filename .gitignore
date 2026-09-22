@@ -1,0 +1,13 @@
+# secrets - never commit
+.env
+
+# local dumps / backups
+*.sql
+*.dump
+
+# python
+__pycache__/
+*.pyc
+
+# os cruft
+.DS_Store
